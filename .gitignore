@@ -33,3 +33,11 @@ bld/
 ## Secrets (never commit)
 appsettings.Development.json
 secrets.json
+
+## Angular
+Frontend/oncology-rag-ui/node_modules/
+Frontend/oncology-rag-ui/dist/
+Frontend/oncology-rag-ui/.angular/
+
+## Project guidance (not for version control)
+CLAUDE.md
